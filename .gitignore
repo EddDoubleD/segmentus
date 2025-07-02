@@ -130,3 +130,9 @@ dmypy.json
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/.idea/
+
+/scratch/
+
+/data/tmp
