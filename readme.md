@@ -14,6 +14,14 @@ The main features of the project include:
 pip install --upgrade pip
 pip install kagglehub
 pip install docling
+# splitter
+pip install langchain
+pip install langchain_text_splitters
 ```
 
 ## Database
+
+## CLI 
+```bash
+python3 cli scratch/example/myfile.txt algorithm
+``
