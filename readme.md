@@ -17,6 +17,7 @@ pip install docling
 # splitter
 pip install langchain
 pip install langchain_text_splitters
+pip install sentence_transformers
 ```
 
 ## Database
