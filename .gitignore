@@ -131,8 +131,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/.idea/
+/.idea/*
 
 /scratch/
 
-/data/tmp
+/data/tm
